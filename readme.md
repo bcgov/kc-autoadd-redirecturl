@@ -1,3 +1,9 @@
+
+[![Issues](https://img.shields.io/github/issues/bcgov/kc-autoadd-redirecturl)](/../../issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/bcgov/kc-autoadd-redirecturl)](/../../pulls)
+[![MIT License](https://img.shields.io/github/license/bcgov/kc-autoadd-redirecturl.svg)](/LICENSE)
+[![Lifecycle](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+
 # Add Keycloak Redirect
 
 ## setup - install deps
